@@ -1,0 +1,5 @@
+name: Anemo
+version: @version@
+main: com.anemo.project.AnemoPlugin
+commands:
+  kit:
